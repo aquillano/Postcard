@@ -10,31 +10,31 @@
 	<string>Postcard</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>48DAD427E3667DF6098192555F22D0C9966B587B</key>
-		<string>github.com:meetup/intellij-meetup-project.git</string>
+		<key>A051DECD5C1B1F522219A6F14F278656C10B09CC</key>
+		<string>github.com:aquillano/Postcard.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Postcard/Postcard.xcodeproj</string>
+	<string>Postcard.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>48DAD427E3667DF6098192555F22D0C9966B587B</key>
-		<string>../../..</string>
+		<key>A051DECD5C1B1F522219A6F14F278656C10B09CC</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:meetup/intellij-meetup-project.git</string>
+	<string>github.com:aquillano/Postcard.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>48DAD427E3667DF6098192555F22D0C9966B587B</string>
+	<string>A051DECD5C1B1F522219A6F14F278656C10B09CC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>48DAD427E3667DF6098192555F22D0C9966B587B</string>
+			<string>A051DECD5C1B1F522219A6F14F278656C10B09CC</string>
 			<key>IDESourceControlWCCName</key>
-			<string>intellij-meetup-project</string>
+			<string>Postcard</string>
 		</dict>
 	</array>
 </dict>
